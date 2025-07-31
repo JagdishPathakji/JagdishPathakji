@@ -20,6 +20,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" alt="react" width="42" height="42" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <br>
 <br>
