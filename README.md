@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagdish Pathakji</h1>
-<p align="center">💻 Information Technology Student | Backend & Web Developer | Lifelong Learner</p>
+<p align="center">💻 Information Technology Student | IT Engineer | Backend & Web Developer </p>
 
 ---
 
