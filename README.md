@@ -50,9 +50,14 @@
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
+  <a href="mailto:pathakjijagdish1@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/jagdishpathakji" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
