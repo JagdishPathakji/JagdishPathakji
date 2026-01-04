@@ -7,7 +7,7 @@
 - 🎓 Information Technology student passionate about **Backend Development & Problem Solving**
 - 💡 Strong foundation in **DSA, OOP, DBMS, Operating Systems & Computer Networks**
 - 🛠️ Building scalable projects using **MERN Stack** and integrating **AI**
--
+
 ---
 
 ## 🛠️ Technical Skills
