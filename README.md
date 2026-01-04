@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 IT Student passionate about **Backend Development & Problem Solving**
-- 💡 Strong in **DSA, OOP, DBMS, OS, CN**
-- 🛠️ Building projects using **MERN Stack** and integrating **AI**
-
+- 🎓 Information Technology student passionate about **Backend Development & Problem Solving**
+- 💡 Strong foundation in **DSA, OOP, DBMS, Operating Systems & Computer Networks**
+- 🛠️ Building scalable projects using **MERN Stack** and integrating **AI**
+-
 ---
 
 ## 🛠️ Technical Skills
@@ -42,34 +42,23 @@
 
 ---
 
-## 🧩 DSA 
+## 🧩 DSA
 
 <p align="center">
-  <!-- LeetCode -->
+  <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/jagdish_pathakji?theme=dark&font=Karma&ext=heatmap" />
-
-  <br><br>
-
-  <!-- GFG -->
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=Jagdish Pathakji" />
 </p>
-
-> 🏆 **Solved ~100+ problems across LeetCode & GeeksforGeeks**
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=JagdishPathakji&show_icons=true&theme=tokyonight" height="170"/>
-
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagdishPathakji&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JagdishPathakji&theme=react-dark"/>
 </p>
 
