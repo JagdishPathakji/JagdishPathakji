@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jagdish Pathakji</h1>
 <h3 align="center">💻 Information Technology Student | Backend & Web Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JagdishPathakji&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
 - 🎓 IT Student passionate about **Backend Development & Problem Solving**
 - 💡 Strong in **DSA, OOP, DBMS, OS, CN**
-- 🧠 Solved **100+ DSA problems** on LeetCode & GFG
-- 🛠️ Building projects using **MERN Stack**
-- 🎯 Currently focusing on **Interview Preparation & System Design**
+- 🛠️ Building projects using **MERN Stack** and integrating **AI**
 
 ---
 
@@ -48,16 +42,16 @@
 
 ---
 
-## 🧩 DSA & Competitive Programming
+## 🧩 DSA 
 
 <p align="center">
   <!-- LeetCode -->
-  <img src="https://leetcard.jacoblin.cool/jagdishpathakji?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/jagdish_pathakji?theme=dark&font=Karma&ext=heatmap" />
 
   <br><br>
 
   <!-- GFG -->
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=jagdishpathakji" />
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=Jagdish Pathakji" />
 </p>
 
 > 🏆 **Solved ~100+ problems across LeetCode & GeeksforGeeks**
