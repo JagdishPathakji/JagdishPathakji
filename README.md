@@ -24,9 +24,38 @@
 
 ### 🛠️ Technical Arsenal
 
+#### 💡 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,py,java,html,css,react,tailwind,nodejs,express,php,mysql,mongodb,redis,git,github,docker,vscode,postman,numpy,pandas&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,py,java" />
+  </a>
+</p>
+
+#### 🌐 Web Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,php" />
+  </a>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+  </a>
+</p>
+
+#### 🧠 AI & Data Analysis
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+  </a>
+</p>
+
+#### 🛠️ Developer Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
   </a>
 </p>
 
@@ -57,26 +86,18 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/JagdishPathakji/Version-Control-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=Version-Control-System&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
-      </a>
+      <a href="https://github.com/JagdishPathakji/Version-Control-System"><b>Version Control System</b></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/JagdishPathakji/Chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=Chatbot&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
-      </a>
+      <a href="https://github.com/JagdishPathakji/Chatbot"><b>Query AI - Chatbot</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/JagdishPathakji/ai-website-builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=ai-website-builder&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
-      </a>
+      <a href="https://github.com/JagdishPathakji/ai-website-builder"><b>AI Website Builder</b></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/JagdishPathakji/vscode-code-reviewer-extension">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=vscode-code-reviewer-extension&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
-      </a>
+      <a href="https://github.com/JagdishPathakji/vscode-code-reviewer-extension"><b>VS Code Code Reviewer Extension</b></a>
     </td>
   </tr>
 </table>
