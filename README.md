@@ -1,73 +1,97 @@
-<h1 align="center">Hi 👋, I'm Jagdish Pathakji</h1>
-<h3 align="center">💻 Information Technology Student | Backend & Web Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45a1ff&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Jagdish+Pathakji;Software+Engineer;AI+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</h1>
 
----
-
-## 🚀 About Me
-- 🎓 Information Technology student passionate about **Backend Development & Problem Solving**
-- 💡 Strong foundation in **DSA, OOP, DBMS, Operating Systems & Computer Networks**
-- 🛠️ Building scalable projects using **MERN Stack** and integrating **AI**
-
----
-
-## 🛠️ Technical Skills
-
-### 💡 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="42"/>
+  <a href="https://portfoliojagdishpathakji.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Qah43RkkRS9QJIGsassrt7g9YL8ubtcA/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---
 
-## 🧩 DSA
+### 🚀 About Me
+
+- 🎓 **B.Tech IT** student @ **Birla Vishvakarma Mahavidyalaya** (CGPA: 9.49)
+- 💡 Passionate about **Backend Development** and building **AI-driven solutions**
+- 🛠️ Creator of **JVCS** (Version Control System) & **AI Website Builder**
+- 🏆 **Hackathon Winner** for AI-powered VS Code extensions
+
+---
+
+### 🛠️ Technical Arsenal
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,py,java,html,css,react,tailwind,nodejs,express,php,mysql,mongodb,redis,git,github,docker,vscode,postman,numpy,pandas&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- LeetCode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JagdishPathakji&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JagdishPathakji&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d4ff" alt="Activity Graph" />
+</p>
+
+---
+
+### 🧩 Coding Profile
+
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/jagdish_pathakji?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 📂 Featured Repositories
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JagdishPathakji&theme=react-dark"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JagdishPathakji/Version-Control-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=Version-Control-System&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JagdishPathakji/Chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=Chatbot&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/JagdishPathakji/ai-website-builder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=ai-website-builder&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/JagdishPathakji/vscode-code-reviewer-extension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JagdishPathakji&repo=vscode-code-reviewer-extension&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:pathakjijagdish1@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="42"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jagdishpathakji" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
