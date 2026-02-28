@@ -50,11 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" height="38" title="LangChain" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/docs/static/img/langgraph_logo.png" height="38" title="LangGraph" /> &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/parrot.png" width="42" title="LangChain" /> &nbsp;
+  <img src="https://github.com/langchain-ai/langgraph/raw/main/docs/docs/static/img/langgraph-logo.png" width="42" title="LangGraph" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" width="42" title="Vector DB (Pinecone)" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="42" title="Graph DB (Neo4j)" /> &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" height="28" />
 </p>
 
 #### 🛠️ Developer Tools
