@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" height="28" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" width="42" title="LangChain" /> &nbsp;
+  <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon" width="42" title="LangChain" /> &nbsp;
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" width="42" title="LangGraph" /> &nbsp;
   <img src="https://t3.ftcdn.net/jpg/02/33/14/40/360_F_233144065_Dfahq7Bww6Qsk8ykHZdY2Snf27Eqs7Jw.jpg" width="42" title="Vector DB" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" width="42" title="Graph DB (Neo4j)" /> &nbsp;
