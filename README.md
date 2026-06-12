@@ -17,7 +17,7 @@
 
 - 🎓 **B.Tech IT** student @ **Birla Vishvakarma Mahavidyalaya** (CGPA: 9.49)
 - 💡 Passionate about **Backend Development** and building **AI-driven solutions**
-- 🛠️ Creator of **JVCS** (Version Control System) & **AI Website Builder**
+- 🛠️ Created of **JVCS** (Version Control System) & **AI Website Builder** Projects
 - 🏆 **Hackathon Winner** for AI-powered VS Code extensions
 
 ---
